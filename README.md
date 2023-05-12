@@ -1,56 +1,38 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=moltack&height=300&section=header&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling&text=Hi%20there!%20👋%20I'm%20Hugo.%20🦉&desc=Front-end%20Developer&descSize=30&descAlignY=65)
+<br />
 
-<!--
-**hdpyo/hdpyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **🌱 I’m currently learning about**
 
-Here are some ideas to get you started:
+<div>
+  <p align="center">
+    <img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />
+    <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white" />
+    <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" />
+    <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" />
+    <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white" />
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
 
-<!--
-  <img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoodongpyo&layout=donut" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whoodongpyo&show_icons=true&theme=moltack" />
+</div>
+
+<!-- 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoodongpyo&layout=donut)](https://github.com/whoodongpyo/github-readme-stats)
 -->
 
 <!-- 
-* icons
-
-<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" />
-<img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-<img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
-<img alt="IntelliJ IDEA" src ="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white" 
-/> 
+![Whoodongpyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoodongpyo&show_icons=true&theme=moltack)
 -->
 
-<div>
-  <h3 align="center">🌱 I’m currently learning about ...</h3>
-  <p align="center">
-    <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" />
-    <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white" />
-    <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" />
-  </p>
-</div>
-
----
-
-<div>
-  <h3 align="center">🤔 I’m interested in TDD ... </h3>
-  <p align="center">
-    <img alt="Jest" src ="https://img.shields.io/badge/Jest-C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white" />
-    <img alt="Testing Library" src ="https://img.shields.io/badge/Testing_Library-E33332.svg?&style=for-the-badge&logo=TestingLibrary&logoColor=white" />
-  </p>
-</div>
-
-
-
-
-
-
-
+<!-- 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=footer&fontSize=60&fontColor=ffffff&fontAlignY=70&animation=twinkling&text=Hi%20there!%20👋%20I'm%20Hugo.%20🦉)
+-->
