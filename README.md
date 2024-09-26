@@ -1,10 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=moltack&height=300&section=header&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling&text=Hi%20there!%20👋%20I'm%20Hugo.%20🦉&desc=Front-end%20Developer&descSize=30&descAlignY=65)
-<br />
-
 ## **🌱 I’m currently learning about**
 
 <div>
-  <p align="center">
+  <p align="">
     <img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />
     <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white" />
     <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" />
@@ -15,9 +12,11 @@
 
 <br />
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoodongpyo&layout=donut" />
 </div>
+-->
 
 <br />
 
