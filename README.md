@@ -9,31 +9,3 @@
     <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white" />
   </p>
 </div>
-
-<br />
-
-<!--
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoodongpyo&layout=donut" />
-</div>
--->
-
-<br />
-
-<!-- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whoodongpyo&show_icons=true&theme=moltack" />
-</div>
--->
-
-<!-- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoodongpyo&layout=donut)](https://github.com/whoodongpyo/github-readme-stats)
--->
-
-<!-- 
-![Whoodongpyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoodongpyo&show_icons=true&theme=moltack)
--->
-
-<!-- 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=footer&fontSize=60&fontColor=ffffff&fontAlignY=70&animation=twinkling&text=Hi%20there!%20👋%20I'm%20Hugo.%20🦉)
--->
